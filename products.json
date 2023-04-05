@@ -1,0 +1,20 @@
+[
+	{
+		"title": "remera victorino",
+		"description": "remera de algodon",
+		"price": 200,
+		"thumnail": "http://",
+		"code": 1002,
+		"stock": 20,
+		"id": 1
+	},
+	{
+		"title": "remera jockey",
+		"description": "remera de algodon",
+		"price": 200,
+		"thumnail": "http://",
+		"code": 1002,
+		"stock": 20,
+		"id": 2
+	}
+]
